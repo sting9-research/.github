@@ -1,4 +1,4 @@
-![sting9](./sting9.png)
+![sting9](./sting9-logo.png)
 
 # Sting9 Research Initiative
 
